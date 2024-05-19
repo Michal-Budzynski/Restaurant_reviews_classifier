@@ -21,19 +21,16 @@ The dataset used in this project consists of restaurant reviews labeled as posit
 
 ## Requirements
 - Python 3.x
-- Jupyter Notebook
-
-## Installation
-1. Clone or download all contents of this repository
-
-2. Open the file ""
+- Jupyter Notebook or JupyterLab
 
 ## Usage
-1. Open the Jupyter Notebook or JupyterLab Notebook
+1. Clone or download all contents of this repository.
+   
+2. Open the Jupyter Notebook or JupyterLab Notebook.
 
-2. Run the notebook cells to preprocess the data, train the model, and evaluate its performance.
+3. Run the notebook cells to preprocess the data, train the model, and evaluate its performance.
 
-3. Try it Yourself! You can test the model with your own review in the "Try me!" chapter.
+4. Try it Yourself! You can test the model with your own review in the "Try me!" chapter.
    
 ## Model Evaluation
 The model's performance is evaluated using a confusion matrix, accuracy, precision, and recall metrics. The confusion matrix provides insights into the number of correct and incorrect predictions, while precision and recall help understand the model's ability to classify positive and negative reviews correctly.
@@ -50,4 +47,5 @@ The model's performance is evaluated using a confusion matrix, accuracy, precisi
 - Model is **pretty good** in general, but **prone to misclassifying positive reviews as negative.**
 
 
-  This project is licensed under the **MIT License**. See the LICENSE file for more details.
+
+This project is licensed under the **MIT License**. See the LICENSE file for more details.
