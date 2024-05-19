@@ -1,7 +1,9 @@
 # Restaurant Reviews Sentiment Analysis
 
+![logo](https://github.com/Michal-Budzynski/Restaurant_reviews_classifier/assets/141020371/a6cf04ab-d320-4a24-b06c-fd3fcc9dcecb)
+
 This project focuses on building a sentiment analysis model to classify restaurant reviews as positive or negative. The model uses Natural Language Processing (NLP) techniques and machine learning algorithms to analyze and predict the sentiment of the reviews.
-![logo](https://github.com/Michal-Budzynski/Restaurant_reviews_classifier/assets/141020371/d9da8b06-47dc-45fe-b160-8d29fb991074)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
