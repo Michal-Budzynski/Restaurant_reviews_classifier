@@ -7,11 +7,9 @@ This project focuses on building a sentiment analysis model to classify restaura
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
 - [Try it Yourself](#try-it-yourself)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -48,5 +46,5 @@ The model's performance is evaluated using a confusion matrix, accuracy, precisi
 - Model is **pretty good** in general, but **prone to misclassifying positive reviews as negative.**
 
 
-
+### License
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
