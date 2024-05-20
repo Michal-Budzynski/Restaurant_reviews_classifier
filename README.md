@@ -5,6 +5,7 @@ This project focuses on building a sentiment analysis model to classify restaura
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Tools](#tools)
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Usage](#usage)
@@ -15,6 +16,14 @@ This project focuses on building a sentiment analysis model to classify restaura
 ## Project Overview
 The goal of this project is to develop a classification model that can predict the sentiment of restaurant reviews. The model processes the reviews using NLP techniques, such as tokenization and stemming, and then applies a machine learning algorithms for classification.
 
+## Tools
+This project employs a variety of statistical and machine learning techniques to preprocess the data, train the model, and evaluate its performance:
+- **Natural Language Processing (NLP):**
+  - Tokenization: Splitting text into individual words.
+  - Stopwords Removal: Eliminating common words that do not contribute to sentiment (e.g., 'the', 'and').
+  - Stemming: Reducing words to their root forms (e.g., 'running' to 'run') using the Porter Stemmer.
+  - Bag of Words Model: Converting text data into numerical feature vectors.
+    
 ## Dataset
 The dataset used in this project consists of restaurant reviews labeled as positive (1) or negative(0). The reviews are preprocessed to remove noise and convert text into a format suitable for machine learning models.
 
