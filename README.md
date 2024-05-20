@@ -32,7 +32,7 @@ This project employs a variety of statistical and machine learning techniques to
   - Kernel Support Vector Machine (Kernel SVM)
   - K-nearest neighbours
 - **Confusion Matrix**
-- **Accuracy score, Type I error, precision score, ROC curve and AUC**
+- **Accuracy score, Type I error, Precision score, ROC curve and AUC**
     
 ## Dataset
 The dataset used in this project consists of restaurant reviews labeled as positive (1) or negative(0). The reviews are preprocessed to remove noise and convert text into a format suitable for machine learning models.
