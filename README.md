@@ -23,6 +23,16 @@ This project employs a variety of statistical and machine learning techniques to
   - Stopwords Removal: Eliminating common words that do not contribute to sentiment (e.g., 'the', 'and').
   - Stemming: Reducing words to their root forms (e.g., 'running' to 'run') using the Porter Stemmer.
   - Bag of Words Model: Converting text data into numerical feature vectors.
+- **Classification algorithms:**
+  - Naive Bayes
+  - Logistic regression
+  - Decision tree
+  - Random forest
+  - Support Vector Machine (SVM)
+  - Kernel Support Vector Machine (Kernel SVM)
+  - K-nearest neighbours
+- **Confusion Matrix**
+- **Accuracy score, Type I error, precision score, ROC curve and AUC**
     
 ## Dataset
 The dataset used in this project consists of restaurant reviews labeled as positive (1) or negative(0). The reviews are preprocessed to remove noise and convert text into a format suitable for machine learning models.
